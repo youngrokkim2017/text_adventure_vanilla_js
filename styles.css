@@ -31,7 +31,9 @@ body {
 }
 
 .btn {
-    background-color: hs1(200, 100%, 50%);
+    /* background-color: hs1(200, 100%, 50%); */
+    background-color: lightblue;
+    /* border: 1px solid hs1(200, 100%, 30%); */
     border: 1px solid hs1(200, 100%, 30%);
     border-radius: 5px;
     padding: 5px 10px;
